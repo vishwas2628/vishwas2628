@@ -1,52 +1,55 @@
-## Hi there 👋 I'm Vishwas  
-### 🚀 Software Developer | 💡 Open Source Enthusiast | 🌍 Lifelong Learner
+# Hi 👋 I'm Vishwas  
+### Software Developer | Backend-Focused | Continuous Learner
 
 ---
 
 ### 👨‍💻 About Me
-
-I'm a **Software Developer** with **2 years of professional experience** as a beginner-level developer, continuously growing and improving my skills.
-
-- 🐍 **Primary Language:** Python  
-- 🌐 Also working with **JavaScript & TypeScript**  
-- 🎨 Frontend experience using **React, Vue, Svelte, and Astro**  
-- ⚙️ Currently working mainly as a **Backend Developer**  
-- 📚 Passionate about learning new technologies and building real-world systems  
+I’m a **Software Developer with 2 years of professional experience**, primarily working as a **Backend Developer**.  
+My core strength is **Python**, with hands-on experience in full-stack development and modern web technologies.
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
-![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white)
-![Astro](https://img.shields.io/badge/-Astro-BC52EE?logo=astro&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+**Programming Languages**  
+- Python, JavaScript, C, PHP  
+
+**Libraries & Frameworks**  
+- React, Node.js, Express  
+- Django  
+- Pandas, NumPy, OpenCV (Python)  
+- Tailwind CSS  
+
+**Databases**  
+- MySQL, SQLite, MongoDB  
+
+**Tools & Platforms**  
+- Git, GitHub  
+- VS Code  
+- Figma, Canva  
+
+**Soft Skills**  
+- Team Player 🤝  
 
 ---
 
-### 📊 GitHub Summary
+### ♟️ Hobby
+- Playing Chess
+
+---
+
+### 📊 GitHub Overview
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishwas2628&theme=transparent" 
-    alt="Profile Details"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishwas2628&theme=github_dark" 
+    alt="GitHub Profile Summary"
   />
 </p>
 
 ---
 
-### 📫 Contact Me
-
-- 📧 **Email:** [vishwaschourasiya@gmail.com](mailto:vishwaschourasiya@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/vishwaschoursiya37](https://www.linkedin.com/in/vishwaschoursiya37)
-- 👽 **Reddit:** [u/Odd_Neck5739](https://www.reddit.com/u/Odd_Neck5739/s/J39oNq9nhK)
-
----
-
-### ⚡ Fun Fact
-I enjoy building systems from scratch and understanding how things work under the hood 🚀
+### 📫 Contact
+- 📧 Email: [vishwaschourasiya@gmail.com](mailto:vishwaschourasiya@gmail.com)  
+- 💼 LinkedIn: https://www.linkedin.com/in/vishwaschoursiya37  
+- 👽 Reddit: https://www.reddit.com/u/Odd_Neck5739/s/J39oNq9nhK
