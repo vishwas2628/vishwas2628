@@ -1,43 +1,39 @@
-# 👋 Hi there
+# 👋 Hi there, I'm Vishwas Chourasiya!
+### 🚀 Associate Software Developer | Full-Stack & Telephony Engineer
 
-I enjoy building systems from scratch and understanding how things work under the hood 🚀
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" />
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Asterisk_PBX-FF7A00?logo=asterisk&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white" />
-
-</p>
+A passionate software developer dedicated to crafting efficient, scalable web applications and advanced telephony/IVR solutions. Experienced in full-stack frameworks, real-time architectures, and integrating modern AI technologies.
 
 ---
 
-### 🌐
+### 🛠️ Tech Stack & Toolkit
 
-<a href="mailto:vishya@gmail.com">Reach out to me via Email</a><br>
-<a href="https://www.linkedin.com/in/vishwaschoursiya37">Reach out to me on LinkedIn</a><br>
-<a href="https://www.reddit.com/u/Odd_Neck5739/s/J39oNq9nhK">Reach out to me on Reddit</a>
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) |
+| **Backend & Telephony** | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Asterisk](https://img.shields.io/badge/asterisk-%23E31837.svg?style=for-the-badge&logo=asterisk&logoColor=white) |
+| **Frontend Frameworks** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vue&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Data & AI** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) |
+| **Tools & Cloud** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-%231261FE.svg?style=for-the-badge&logo=ibm&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+
+---
+
+### 🏆 Competitions & Achievements
+* **HackerRank ASTRA:** Secured **Rank 7 out of 12** in the JavaScript Coding Contest.
+* **SRIT College Hackathon:** Represented the official college team under rapid, strict timeline prototyping challenges.
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/vishwaschourasiya37" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vishwaschourasiya@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+⚡ *Fun fact: I love mapping logic out of complex workflows, whether it's solving custom Sudokus programmatically or structuring nested voice-response trees!*
+
