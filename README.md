@@ -33,6 +33,9 @@ A passionate software developer dedicated to crafting efficient, scalable web ap
   <a href="mailto:vishwaschourasiya@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <a href="https://www.reddit.com/u/Odd_Neck5739/s/J39oNq9nhK" target="_blank">
+    <img src="https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" height="28" />
+  </a>
 </p>
 
 ⚡ *Fun fact: I love mapping logic out of complex workflows, whether it's solving custom Sudokus programmatically or structuring nested voice-response trees!*
